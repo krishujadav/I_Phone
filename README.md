@@ -21,7 +21,7 @@ GSAP (Greensock)
 Vite
 Tailwind CS
 
-🔋 Features
+#🔋 Features
 
 
 👉 Beautiful Subtle Smooth Animations using GSAP: Enhanced user experience with seamless and captivating animations powered by GSAP.
